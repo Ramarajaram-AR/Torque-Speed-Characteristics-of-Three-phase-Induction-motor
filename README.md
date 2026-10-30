@@ -40,3 +40,4 @@ Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Li
 The torque-speed characteristics of a three-phase induction motor were successfully simulated and analyzed using MATLAB/Simulink.
 
 
+
